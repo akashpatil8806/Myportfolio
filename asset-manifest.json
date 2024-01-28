@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Myportfolio/static/css/main.a687785d.css",
+    "main.js": "/Myportfolio/static/js/main.e7d5adbe.js",
+    "static/media/bvg.jpg": "/Myportfolio/static/media/bvg.55bd472567b1bbe1c5e2.jpg",
+    "static/media/portfolio5.png": "/Myportfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/PATIL_AKASH_R.pdf": "/Myportfolio/static/media/PATIL_AKASH_R.4d4194e492000d2a1b5e.pdf",
+    "static/media/portfolio2.jpg": "/Myportfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/Myportfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/Myportfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/Myportfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/Myportfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/about-me.jpg": "/Myportfolio/static/media/about-me.2d2eda4a1218ed67207a.jpg",
+    "index.html": "/Myportfolio/index.html",
+    "main.a687785d.css.map": "/Myportfolio/static/css/main.a687785d.css.map",
+    "main.e7d5adbe.js.map": "/Myportfolio/static/js/main.e7d5adbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a687785d.css",
+    "static/js/main.e7d5adbe.js"
+  ]
+}
